@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Training Portal</string>
+    <string-array name="Type">
+        <item>Coordinator</item>
+        <item>Department</item>
+    </string-array>
+    <string-array name="Slot">
+        <item>9-12</item>
+        <item>2-5</item>
+    </string-array>
+    <string-array name="faculty">
+        <item>Internal</item>
+        <item>External</item>
+    </string-array>
+    <string-array name="report">
+        <item>All</item>
+        <item>Course</item>
+        <item>Department</item>
+    </string-array>
+    <string-array name="subject">
+        <item>CSIT</item>
+        <item>ECE</item>
+        <item>EEE</item>
+    </string-array>
+    <string-array name="Department">
+        <item>JAVA</item>
+        <item>DJANGO</item>
+        <item>ORACLE</item>
+        <item>PHP</item>
+        <item>PYTHON</item>
+    </string-array>
+    <string name="title_activity_coordinator">Coordinator</string>
+    <string name="tab_text_1">Pending Request</string>
+    <string name="tab_text_2">Schedule</string>
+    <string name="title_activity_department">Department</string>
+    <string name="title_home">Request</string>
+    <string name="title_dashboard">Schedule</string>
+
+    <string name="dialog_message">Want To Assign</string>
+    <string name="dialog_title">Assign Faculty</string>
+
+</resources>

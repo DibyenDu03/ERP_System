@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffa500"
+    android:orientation="vertical"
+    tools:context=".department_report">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:text="Schedule Courses"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:layout_height="wrap_content"/>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:id="@+id/list19021"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="35dp"
+        android:textStyle="bold"
+        android:text="* A) for 9-12 PM and B) for 2-5 PM"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
